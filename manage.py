@@ -47,7 +47,7 @@ def reservation_list():
 
 if __name__ == '__main__':
    app.run(debug = True)
-Createdb.py
+createdb.py
 import sqlite3 as sql
 
 conn = sql.connect('database.db')
