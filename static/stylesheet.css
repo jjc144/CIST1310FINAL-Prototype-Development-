@@ -43,7 +43,7 @@ button:hover {
 }
 
 .formbutton {
-    color: white;
+    color: blue;
     background-color: lightblue;
     border: none;
     border-radius: 8px;
@@ -55,12 +55,12 @@ button:hover {
 table {
     border: solid black 1px;
     margin: none;
-    background-color: white;
+    background-color: black;
 }
 
 table td {
     padding: 10px 10px 10px 5px;
-    background-color: white;
+    background-color: black;
 }
 .colname {
     font-size: 18px;
